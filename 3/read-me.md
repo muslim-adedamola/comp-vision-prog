@@ -1,0 +1,1 @@
+This part contains panoramic stitching, use of harris corner detector and RANSAC.

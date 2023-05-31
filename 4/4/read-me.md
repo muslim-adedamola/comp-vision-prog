@@ -1,0 +1,1 @@
+Here, clustering algorithms are used to segment images. The segmentations are furhter used to identify foreground and background objects. 
